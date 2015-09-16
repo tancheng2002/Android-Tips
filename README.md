@@ -468,3 +468,4 @@
 9. [关于APK瘦身值得分享的一些经验](http://www.jianshu.com/p/bd90dee57ad0)
 10. [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
 11. [How to check visibility of software keyboard in Android?](http://stackoverflow.com/questions/2150078/how-to-check-visibility-of-software-keyboard-in-android)
+12.代码混淆总结[http://www.cnblogs.com/lesliefang/p/3819259.html]
